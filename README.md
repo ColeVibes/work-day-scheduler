@@ -3,7 +3,7 @@ In this challenge we have been assigned code to enhance with our current knowled
 
 
 # Live Website
-hhtps://colevibes.github.io/work-day-scheduler 
+https://colevibes.github.io/work-day-scheduler 
 
 # Screenshot
 ![Screenshot](./assets/image/screenshot.png)
